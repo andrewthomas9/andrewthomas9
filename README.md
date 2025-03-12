@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a knack
 I specialize in both front-end and back-end development, using modern technologies to deliver seamless user experiences. With a strong foundation in web technologies, I thrive on challenges and continuous learning.
 
 - 🔭 I’m currently working on [your current project or technology].
-- 🌱 I’m learning about [new technology or concept].
+- 🌱 I’m learning about Solana.
 - 👯 I’m looking to collaborate on [specific type of projects].
-- 💬 Ask me about [your areas of expertise].
-- 📫 How to reach me: [your email or LinkedIn].
+- 💬 Ask me about Next.js and React.js.
+- 📫 How to reach me: robertwalkerlee93@gmail.com.
 
 ---
 

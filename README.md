@@ -3,6 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate full-stack developer with a knack for building dynamic web applications and a love for solving complex problems. Let's create something amazing together!
 
 ---
+---
+---
 
 ## 🚀 About Me
 

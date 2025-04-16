@@ -3,15 +3,14 @@ Welcome to my GitHub profile! I'm a passionate Senior Software Engineer with a k
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I specialize in both front-end and back-end development, using modern technologies to deliver seamless user experiences. With a strong foundation in web technologies, I thrive on challenges and continuous learning.
+I’m a Senior Software Engineer and Cloud Architect with 7+ years of experience designing scalable systems, optimizing cloud infrastructure, and building high-performance web applications. I specialize in backend architecture, DevOps automation, and cloud-native technologies like AWS, Docker, and Kubernetes. My focus is on creating reliable, secure, and efficient solutions that scale with business needs.
 
-- 🔭 I’m currently working on [your current project or technology].
-- 🌱 I’m learning about Solana.
-- 👯 I’m looking to collaborate on [specific type of projects].
-- 💬 Ask me about Next.js and React.js.
-- 📫 How to reach me: robertwalkerlee93@gmail.com
+I'm passionate about clean code, automation, and mentoring developers to grow strong engineering teams. Whether it's architecting microservices, deploying with CI/CD, or tuning databases for speed, I bring a strong sense of ownership and a problem-solving mindset to every project.
+
+Outside of work, I’m always exploring new tech, contributing to open-source, and occasionally breaking things just to fix them better. 🔧🚀
+
 
 ---
 

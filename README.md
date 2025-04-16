@@ -108,22 +108,6 @@ Here are some of the technologies I work with:
 
 ---
 
-## 📂 Featured Projects
-
-### [Project Name](link-to-your-project)
-- **Description**: A brief description of what the project does and its features.
-- **Technologies Used**: React, Node.js, MongoDB
-- **Live Demo**: [Demo Link](link-to-demo)
-- **GitHub Repository**: [Repo Link](link-to-repo)
-
-### [Another Project Name](link-to-your-project)
-- **Description**: A brief description of this project.
-- **Technologies Used**: Vue.js, Express, MySQL
-- **Live Demo**: [Demo Link](link-to-demo)
-- **GitHub Repository**: [Repo Link](link-to-repo)
-
----
-
 ## 🔧 GitHub Stats
 
 <div align="center">

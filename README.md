@@ -9,8 +9,7 @@ I’m a Senior Software Engineer and Cloud Architect with 7+ years of experience
 
 I'm passionate about clean code, automation, and mentoring developers to grow strong engineering teams. Whether it's architecting microservices, deploying with CI/CD, or tuning databases for speed, I bring a strong sense of ownership and a problem-solving mindset to every project.
 
-Outside of work, I’m always exploring new tech, contributing to open-source, and occasionally breaking things just to fix them better. 🔧🚀
-
+Outside of work, I’m always exploring new tech, contributing to open-source, and occasionally breaking things just to fix them better. 
 
 ---
 

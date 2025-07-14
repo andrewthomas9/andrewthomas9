@@ -31,8 +31,8 @@ Here are some of the technologies I work with:
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
-    <a href="https://learn.microsoft.com/en-us/training/dotnet/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg"  width="40" height="40" />
+    <a href="https://node.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40" />
     </a> 
    <a href="https://azure.microsoft.com/en-us/get-started" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" />

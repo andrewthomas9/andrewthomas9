@@ -117,8 +117,8 @@ Here are some of the technologies I work with:
 ## 🔧 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewthomas9&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewthomas9&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewthomas9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewthomas9&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 </div>
 
 ---

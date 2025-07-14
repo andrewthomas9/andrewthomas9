@@ -37,6 +37,9 @@ Here are some of the technologies I work with:
     <a href="https://node.org/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40" />
     </a> 
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="node" width="40" height="40" />
+    </a>
    <a href="https://azure.microsoft.com/en-us/get-started" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" />
    </a>
@@ -114,8 +117,8 @@ Here are some of the technologies I work with:
 ## 🔧 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hunter-dev-3&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hunter-dev-3&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewthomas9&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewthomas9&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" />
 </div>
 
 ---

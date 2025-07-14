@@ -1,11 +1,11 @@
-# 🌟 Senior Software Engineer | Cloud Architect 
-Welcome to my GitHub profile! I'm a passionate Senior Software Engineer with a knack for building dynamic web applications and a love for solving complex problems. Let's create something amazing together!
+# 🌟 Senior Full Stack Engineer | Cloud Architect 
+Welcome to my GitHub profile! I'm a passionate Senior Full Stack Engineer with a knack for building dynamic web applications and a love for solving complex problems. Let's create something amazing together!
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a Senior Software Engineer and Cloud Architect with 7+ years of experience designing scalable systems, optimizing cloud infrastructure, and building high-performance web applications. I specialize in backend architecture, DevOps automation, and cloud-native technologies like AWS, Docker, and Kubernetes. My focus is on creating reliable, secure, and efficient solutions that scale with business needs.
+I’m a Senior Full Stack Engineer and Cloud Architect with 10+ years of experience designing scalable systems, optimizing cloud infrastructure, and building high-performance web applications. I specialize in backend architecture, DevOps automation, and cloud-native technologies like AWS, Docker, and Kubernetes. My focus is on creating reliable, secure, and efficient solutions that scale with business needs.
 
 I'm passionate about clean code, automation, and mentoring developers to grow strong engineering teams. Whether it's architecting microservices, deploying with CI/CD, or tuning databases for speed, I bring a strong sense of ownership and a problem-solving mindset to every project.
 
@@ -32,7 +32,7 @@ Here are some of the technologies I work with:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
     <a href="https://learn.microsoft.com/en-us/training/dotnet/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"  width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg"  width="40" height="40" />
     </a> 
    <a href="https://azure.microsoft.com/en-us/get-started" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" />
